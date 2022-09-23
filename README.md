@@ -1,5 +1,5 @@
 # Astronomy-Picture
-Simple site using open API provided by NASA (Astronomy Picture of the Day Project) :ringed_planet:
+Simple site using JavaScript Fetch API to get data provided by NASA's Astronomy Picture of the Day Project :ringed_planet:
 <br><br>
 
 ## Demo
@@ -10,9 +10,7 @@ Simple site using open API provided by NASA (Astronomy Picture of the Day Projec
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; HTML5<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS3<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; JavaScript<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Form validation<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; GET&POST request<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; FormData()<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Fetch APIn<br>
 
 ## Result
 <img width="35%" alt="screen capture" src="../main/assets/img/captureweb.jpeg">
