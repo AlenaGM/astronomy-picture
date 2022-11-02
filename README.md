@@ -8,7 +8,7 @@ Simple site using JavaScript Fetch API to get data provided by [NASA's Astronomy
 ## Tech stack
 
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; JavaScript<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Fetch APIn<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Fetch API<br>
 
 ## Result
 <img width="35%" alt="screen capture" src="../main/assets/img/captureweb.jpeg">
