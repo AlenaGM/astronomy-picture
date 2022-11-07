@@ -5,7 +5,7 @@ Simple site using JavaScript Fetch API to get data provided by [NASA's Astronomy
 ## Demo
 [Astronomy-Picture]
 
-## Tech stack
+## Tech stack 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; JavaScript<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Fetch API<br>
