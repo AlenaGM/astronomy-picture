@@ -1,5 +1,5 @@
 # Astronomy-Picture
-Simple interface that, using JavaScript Fetch API, gets data provided by [NASA's Astronomy Picture of the Day] Project :ringed_planet: 🛰️
+Simple interface that gets data provided by [NASA's Astronomy Picture of the Day] Project, using JavaScript Fetch API :ringed_planet: 🛰️
 <br><br>
 
 ## Demo
