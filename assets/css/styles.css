@@ -24,7 +24,6 @@ body {
 
 .header {
   grid-area: header;
-  margin: -24px -24px 10px -24px;
 }
 
 .main {
@@ -42,7 +41,7 @@ body {
   font-size: 44px;
   color: #ffffff;
   line-height: 120%;
-  margin: 40px 24px 12px;
+  margin: 64px 0 12px;
   text-align: center;
   text-shadow: 2px 2px #20202093;
 }
@@ -63,6 +62,7 @@ body {
   color: #95bfe2;
   text-align: center;
   text-shadow: 2px 2px #20202093;
+  margin: 0 0 12px;
 }
 
 .planet__date {
@@ -70,16 +70,19 @@ body {
   text-transform: uppercase;
   font-size: 14px;
   color: #d1e7fb;
-  margin: 0px 0px 12px;
+  margin: 0px 0px 24px;
 }
 
 .planet__image {
   width: 100%;
+  height: auto;
+  max-width: 960px;
 }
 
 .planet__text {
   font-family: "Roboto", sans-serif;
   font-weight: normal;
   font-size: 16px;
+  max-width: 960px;
   margin: 36px 0px 24px;
 }
