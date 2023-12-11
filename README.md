@@ -1,4 +1,4 @@
-# Astronomy-Picture
+# Astronomy Picture
 Simple interface that uses JavaScript Fetch API to retrieve data provided by [NASA's Astronomy Picture of the Day] Project :ringed_planet: 🛰️.
 <br><br>
 
