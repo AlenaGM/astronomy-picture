@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
     .then((planet) => {
       let planetImage;
       planet.media_type == "video"
-        ? (planetImage = `<iframe width="960" height="540" src="${planet.url}" title="astronomy picture of the day"></iframe>`)
+        ? (planetImage = `<iframe class="planet__image" src="${planet.url}" title="astronomy picture of the day"></iframe>`)
         : (planetImage = `<img class="planet__image" src="${planet.url}" alt="astronomy picture of the day"></img>`);
 
       let apodContent = `<h2 class="planet__name">${planet.title}</h2>
