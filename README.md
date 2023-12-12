@@ -1,9 +1,9 @@
-# Astronomy-Picture
-Simple interface that gets data provided by [NASA's Astronomy Picture of the Day] Project, using JavaScript Fetch API :ringed_planet: 🛰️
+# Astronomy Picture
+Simple interface that uses JavaScript Fetch API to retrieve data provided by [NASA's Astronomy Picture of the Day] Project :ringed_planet: 🛰️.
 <br><br>
 
 ## Demo
-[Astronomy-Picture]
+[Astronomy Picture]
 
 ## Tech stack 
 
@@ -17,10 +17,10 @@ Simple interface that gets data provided by [NASA's Astronomy Picture of the Day
 <br><br> 
 \* _Week 20 Training Project in [ITGirlSchool]_ 
 <br>
-\* _Twin Project of less serious [Yoda-Translations Project]_ 
+\* _Twin Project of less serious [Yoda Translations Project]_ 
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Astronomy-Picture]: <https://alenagm.github.io/Astronomy-Picture/>
-   [Yoda-Translations Project]:<https://github.com/AlenaGM/Yoda-Translations>
+   [Astronomy Picture]: <https://alenagm.github.io/astronomy-picture/>
+   [Yoda Translations Project]:<https://github.com/AlenaGM/yoda-translations>
    [NASA's Astronomy Picture of the Day]:<https://apod.nasa.gov/apod/>
