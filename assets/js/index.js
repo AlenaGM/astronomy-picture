@@ -1,4 +1,5 @@
 "use strict";
+
 const baseUrl = "https://api.nasa.gov/planetary/apod?api_key=";
 const apiKey = "IdfdYntEsRMtYfqEN41j6HnIMA4LPsEYcyN21y5x";
 
