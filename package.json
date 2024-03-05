@@ -1,0 +1,30 @@
+{
+  "name": "astronomy-picture",
+  "version": "1.0.0",
+  "description": "\"Simple interface that uses JavaScript Fetch API to retrieve data provided by NASA's Astronomy Picture of the Day Project\"",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenaGM/Astronomy-Picture.git"
+  },
+  "keywords": [
+    "fetch-api",
+    "js",
+    "astronomy"
+  ],
+  "author": "alena guillaume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenaGM/Astronomy-Picture/issues"
+  },
+  "homepage": "https://github.com/AlenaGM/Astronomy-Picture#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
